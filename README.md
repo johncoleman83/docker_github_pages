@@ -9,7 +9,7 @@ https://github.com/johncoleman83/docker_github_pages/
 
 ### Author
 
-David John Coleman II, http://www.davidjohncoleman.com/
+David John Coleman II, http://www.davidjohncoleman.com/  
 Stuart Kuredjian
 
 ### License
