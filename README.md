@@ -9,7 +9,7 @@ create a free github pages website.
 ## URL
 
 Docker File on Github: https://github.com/johncoleman83/docker_github_pages/  
-Amazon AWS explanation: ec2-35-167-216-229.us-west-2.compute.amazonaws.com  
+Amazon AWS explanation: http://35.167.216.229/  
 Docker Hub: https://hub.docker.com/r/johncoleman83/docker_github_pages/  
 Dockerhub Pages example: https://github.com/dbconfession78/docker_github_pages_example/  
 
