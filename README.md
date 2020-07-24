@@ -1,7 +1,7 @@
 # Bootcamp Project for Docker Hack-A-Thon Feb 2017
 
 ## Description
-This is a Docker image for the Bootcamp School Docker Hack-A-Thon 2017.  We  
+This is a Docker image for the a software development program Docker Hack-A-Thon 2017.  We  
 built a Docker image that can be loaded on an ubuntu OS.  The docker image  
 uses Apache as a web server to host a website that is a tutorial on how to  
 create a free github pages website.  
